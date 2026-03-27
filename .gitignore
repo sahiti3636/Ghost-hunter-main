@@ -1,0 +1,16 @@
+
+hackxois/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+data/
+results/
+archived_reports/
+output/
+*.db
+.vscode/
+package-lock.json
+cnn_dataset/
+evaluation_results/
