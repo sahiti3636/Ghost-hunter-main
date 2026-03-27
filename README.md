@@ -11,6 +11,7 @@
 ## 🎥 Demo
 
 - 🎥 **System Demo:** https://youtu.be/e0lUgmcCVbU
+- **Website Link:** https://ghost-hunter-eta.vercel.app
 
 ---
 
@@ -28,6 +29,7 @@ By combining spatial legality (MPAs), motion cues, fleet-level context, and expl
 ---
 
 ## ⚠️ Deployment & Architecture Note
+The provided website link showcases a lightweight version of the full project, designed to give an overall intuition of its functionality. Since deploying the full deep learning–based backend is resource-intensive, this version allows you to explore a subset of regions from the dropdown menu, which have already been thoroughly analyzed by the complete pipeline.
 
 **Why is this not hosted on Vercel/Render?**
 
